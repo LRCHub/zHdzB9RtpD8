@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ばかじゃないのに",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2026-02-11T02:08:09.305061Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ばかじゃないのに",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_ばかじゃないのに_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ばかじゃないのに",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/02_ばかじゃないのに_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ばかじゃないのに",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_ばかじゃないのに_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ばかじゃないのに",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_ばかじゃないのに_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ばかじゃないのに",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_ばかじゃないのに_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ばかじゃないのに - Stay Foolish",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_ばかじゃないのに_-_Stay_Foolish_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ばかじゃないのに",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/07_ばかじゃないのに_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ばかじゃないのに (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/08_ばかじゃないのに_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ばかじゃないのに",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/09_ばかじゃないのに_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ばかじゃないのに",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/10_ばかじゃないのに_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『ばかじゃないのに』MV (ZUTOMAYO - Stay Foolish)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_ずっと真夜中でいいのに。『ばかじゃないのに』MV_(ZUTOMAYO_-_Stay_Foolish)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ばかじゃないのに (Instrumental)",
+      "artist": "Zutomayo",
+      "has_synced": true,
+      "path": "select/12_ばかじゃないのに_(Instrumental)_Zutomayo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "﻿ばかじゃないのに",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/13_﻿ばかじゃないのに_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ばかじゃないのに",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_ばかじゃないのに_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ばかじゃないのに",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_ばかじゃないのに_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ばかじゃないのに",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_ばかじゃないのに_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
